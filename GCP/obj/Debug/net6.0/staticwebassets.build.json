@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cJEmo/aPfXTWe0hzwDrhfFRkf3JlOaooOYZXHhSQM98=",
+  "Source": "GCP",
+  "BasePath": "_content/GCP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

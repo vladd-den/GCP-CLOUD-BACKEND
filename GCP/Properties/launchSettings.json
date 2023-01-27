@@ -1,0 +1,68 @@
+{
+  "profiles": {
+    "GCP": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:5001;http://localhost:5294"
+    },
+    "GCP-LOCAL-DB": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "CONNECTIONSTRING__PASSWORD": "postgres",
+        "CONNECTIONSTRING__DATABASE": "GCPDB",
+        "CONNECTIONSTRING__PORT": "5432",
+        "CONNECTIONSTRING__HOST": "localhost",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CONNECTIONSTRING__USER": "postgres"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001"
+    },
+    "GCP-DEV-DB": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "CONNECTIONSTRING__PASSWORD": "l=gYYS.Vy>0LKCea",
+        "CONNECTIONSTRING__DATABASE": "GCP-DB-DEV",
+        "CONNECTIONSTRING__PORT": "5432",
+        "CONNECTIONSTRING__HOST": "34.118.0.225",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CONNECTIONSTRING__USER": "postgres"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59778",
+      "sslPort": 44310
+    }
+  }
+}

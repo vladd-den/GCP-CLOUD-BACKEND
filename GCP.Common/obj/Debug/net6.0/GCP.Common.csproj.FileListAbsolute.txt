@@ -1,0 +1,12 @@
+C:\Users\dvlad\source\repos\GCP\GCP.Common\bin\Debug\net6.0\GCP.Common.deps.json
+C:\Users\dvlad\source\repos\GCP\GCP.Common\bin\Debug\net6.0\GCP.Common.dll
+C:\Users\dvlad\source\repos\GCP\GCP.Common\bin\Debug\net6.0\GCP.Common.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.csproj.AssemblyReference.cache
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.AssemblyInfoInputs.cache
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.AssemblyInfo.cs
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.csproj.CoreCompileInputs.cache
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.dll
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\refint\GCP.Common.dll
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\GCP.Common.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.Common\obj\Debug\net6.0\ref\GCP.Common.dll

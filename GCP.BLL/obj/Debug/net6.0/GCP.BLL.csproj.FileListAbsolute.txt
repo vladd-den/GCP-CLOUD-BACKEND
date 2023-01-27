@@ -1,0 +1,17 @@
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.BLL.deps.json
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.BLL.dll
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.BLL.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.Common.dll
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.DAL.dll
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.Common.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\bin\Debug\net6.0\GCP.DAL.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.csproj.AssemblyReference.cache
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.AssemblyInfoInputs.cache
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.AssemblyInfo.cs
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.csproj.CopyComplete
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.dll
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\refint\GCP.BLL.dll
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\GCP.BLL.pdb
+C:\Users\dvlad\source\repos\GCP\GCP.BLL\obj\Debug\net6.0\ref\GCP.BLL.dll
